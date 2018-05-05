@@ -34,3 +34,12 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+.quote {
+	color: red;
+}
+
+#mainquote {
+	color: green;
+	border: 5px solid black;
+}
